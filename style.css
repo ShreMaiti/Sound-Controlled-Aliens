@@ -1,0 +1,39 @@
+body {
+    font-family: 'Times New Roman';
+    background: burlywood;
+}
+
+.header_div {
+    background: cornflowerblue;
+    color: coral;
+}
+
+.header_div p{
+    font-family: 'Lucida Handwriting';
+    color: beige;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button {
+    font-family: 'Book Antiqua';
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    font-size: 14px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: darkolivegreen;
+    bottom: 0;
+    width: 100%;
+    font-size: 14px;
+    background-color:aliceblue;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rosybrown;
+}
+
